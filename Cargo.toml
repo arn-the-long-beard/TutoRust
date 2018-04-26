@@ -1,0 +1,6 @@
+[package]
+name = "TutoRust"
+version = "0.1.0"
+authors = ["ArnTheLongBeard <arn.menant@gmail.com>"]
+
+[dependencies]
